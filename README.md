@@ -231,11 +231,10 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 
 ## Don't feel you aren't smart enough
-
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
+- [x] Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [ ] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
 ## About Video Resources
 
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
